@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Informatika",
+        "tijd": "Bachelor",
+        "id": 1
+    },
+    {
+        "name": "CMD",
+        "tijd": "Bachelor",
+        "id": 2
+    },
+    {
+        "name": "Bouwkunde",
+        "tijd": "Bachelor",
+        "id": 3
+    },
+    {
+        "name": "Marketing",
+        "tijd": "Master",
+        "id": 4
+    }
+]
